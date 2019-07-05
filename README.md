@@ -1,0 +1,2 @@
+# django-kiwi
+django-tutorial
